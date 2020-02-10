@@ -2,7 +2,7 @@
 
 NYC Airbnb data
 
-# What is the question I hope to answer?
+### What is the question I hope to answer?
 Hoping to discover some general neighborhood trends for various attributes of the data. Would also like to predict the price of a listing based on the other various factors in this dataset. 
 
 # What data am I using?
